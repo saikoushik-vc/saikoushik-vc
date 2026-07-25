@@ -1,7 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Sai%20Koushik%20Veerapuram%20Chenna&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=header&text=Sai%20Koushik%20Veerapuram%20Chenna&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=45)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00A8E8&center=true&vCenter=true&width=550&lines=Generative+AI+Engineer;Building+RAG+pipelines+%26+LLM+agents;LangChain+%7C+LangGraph+%7C+MCP;Based+in+Hyderabad+%7C+Open+to+work)](https://git.io/typing-svg)
 
 </div>
@@ -19,13 +18,6 @@
 <div align="center">
 
 ![Skills](https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,git,github,linux)
-
-</div>
-
-### GitHub Stats
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=saikoushik-vc&show_icons=true&theme=radical&hide_border=true" width="60%" />
 
 </div>
 
