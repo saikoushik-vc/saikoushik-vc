@@ -1,4 +1,4 @@
-# Hi, I'm Sai Koushik 👋
+# Hi, I'm Sai Koushik Veerapuram Chenna 👋
 
 Generative AI Engineer, LLM Applications, RAG and Agentic AI Systems. Based in Hyderabad, currently open to new opportunities.
 
