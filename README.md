@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Sai Koushik 👋
 
-<!--
-**saikoushik-vc/saikoushik-vc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Generative AI Engineer, LLM Applications, RAG and Agentic AI Systems. Based in Hyderabad, currently open to new opportunities.
 
-Here are some ideas to get you started:
+## What I work on
+- LangChain, LangGraph, MCP based agent systems
+- RAG pipelines (ChromaDB, hybrid retrieval)
+- LoRA/QLoRA fine-tuning, diffusion models
+- Python, FastAPI backend engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+- Microsoft Certified: Azure AI Fundamentals (AZ-900)
+
+## Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+## GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=saikoushik-vc&show_icons=true&theme=radical)
+
+## Connect
+[LinkedIn](https://linkedin.com/in/saikoushik-vc) | [GitHub](https://github.com/saikoushik-vc)
