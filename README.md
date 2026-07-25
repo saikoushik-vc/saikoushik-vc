@@ -6,18 +6,18 @@
 </div>
 
 ```
-$ work
+>>> work
 > LangChain, LangGraph, MCP based agent systems
 > RAG pipelines with ChromaDB and hybrid retrieval
 > LoRA/QLoRA fine-tuning, diffusion models
 > Python, FastAPI backend engineering
 
 
-$ certifications
+>>> certifications
 > Microsoft Certified: Azure AI Fundamentals (AZ-900)
 
 
-$ links
+>>> links
 > linkedin.com/in/saikoushik-vc
 > github.com/saikoushik-vc
 ```
@@ -25,5 +25,13 @@ $ links
 <div align="center">
 
 ![Skills](https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,git,github,linux&theme=dark)
+
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=ff2e2e)](https://linkedin.com/in/saikoushik-vc)
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=ff2e2e)](https://github.com/saikoushik-vc)
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=flat-square&logo=gmail&logoColor=ff2e2e)](mailto:saikoushikvc@gmail.com)
 
 </div>
