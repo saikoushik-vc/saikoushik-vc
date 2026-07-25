@@ -5,20 +5,22 @@
 
 </div>
 
-```
-$ work
+![work](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1&pause=100000&color=FF2E2E&background=00000000&center=false&vCenter=true&width=250&height=40&lines=%24+WORK)
+
 > LangChain, LangGraph, MCP based agent systems
 > RAG pipelines with ChromaDB and hybrid retrieval
 > LoRA/QLoRA fine-tuning, diffusion models
 > Python, FastAPI backend engineering
 
-$ certifications
+![certifications](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1&pause=100000&color=FF2E2E&background=00000000&center=false&vCenter=true&width=380&height=40&lines=%24+CERTIFICATIONS)
+
 > Microsoft Certified: Azure AI Fundamentals (AZ-900)
 
-$ links
-> linkedin.com/in/saikoushik-vc
-> github.com/saikoushik-vc
-```
+![links](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1&pause=100000&color=FF2E2E&background=00000000&center=false&vCenter=true&width=250&height=40&lines=%24+LINKS)
+
+- [LinkedIn](https://linkedin.com/in/saikoushik-vc)
+- [GitHub](https://github.com/saikoushik-vc)
+- [Email](mailto:saikoushikvc@gmail.com)
 
 <div align="center">
 
