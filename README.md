@@ -18,7 +18,7 @@ Generative AI Engineer, LLM Applications, RAG and Agentic AI Systems. Based in H
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=saikoushik-vc&show_icons=true&theme=radical)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=saikoushik-vc&show_icons=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=saikoushik-vc&show_icons=true&theme=radical)
 
 ## Connect
 [LinkedIn](https://linkedin.com/in/saikoushik-vc) | [GitHub](https://github.com/saikoushik-vc)
