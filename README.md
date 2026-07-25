@@ -1,7 +1,7 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=header&text=Sai%20Koushik%20Veerapuram%20Chenna&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=45)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00A8E8&center=true&vCenter=true&width=550&lines=Generative+AI+Engineer;Building+RAG+pipelines+%26+LLM+agents;LangChain+%7C+LangGraph+%7C+MCP;Based+in+Hyderabad+%7C+Open+to+work)](https://git.io/typing-svg)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:0f0c29&height=120&section=header&text=Sai%20Koushik%20Veerapuram%20Chenna&fontSize=28&fontColor=ff2e63&animation=fadeIn&fontAlignY=45)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=1200&color=00FFF5&center=true&vCenter=true&width=550&lines=Generative+AI+Engineer;Building+RAG+pipelines+%26+LLM+agents;LangChain+%7C+LangGraph+%7C+MCP;Based+in+Hyderabad+%7C+Open+to+work)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,15 +17,15 @@
 ### Tech Stack
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,git,github,linux)
+![Skills](https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,git,github,linux&theme=dark)
 
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saikoushik-vc)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saikoushik-vc)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=00FFF5)](https://linkedin.com/in/saikoushik-vc)
+[![GitHub](https://img.shields.io/badge/-GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=FF2E63)](https://github.com/saikoushik-vc)
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:0f0c29&height=100&section=footer)
